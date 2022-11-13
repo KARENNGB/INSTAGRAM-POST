@@ -1,0 +1,46 @@
+
+.description{
+    margin: 10px 0;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.fa-bookmark {
+    float: right; 
+}
+
+.wrapper {
+    width: 40%;
+    margin: auto;
+    border: 0.5px solid black;
+}
+
+body {
+    height: 100vh;
+}
+
+img.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.first {
+    width: calc(100% - 18px);
+    float: left;
+}
+
+.options {
+    float: left;
+}
+
+.bann2 {
+    padding-top: 11px;
+}
+
+.prefirst {
+    padding-right: 10px;
+}
+
+.post-content {
+    padding: 10px;
+}
